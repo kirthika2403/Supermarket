@@ -1,0 +1,20 @@
+{
+"Data":
+[
+{"Items":"Salt",
+ "Barcode":1234,
+ "Price":20
+ },
+ {
+ "Items":"Power Bank",
+ "Barcode":1243,
+ "Price":2000
+ },
+ {
+ "Items":"Sticker",
+ "Barcode":4567,
+ "Price":40
+ }
+ ]
+ }
+ 
