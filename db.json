@@ -2,18 +2,19 @@
 "Data":
 [
 {"Items":"Salt",
- "Barcode":1234,
  "Price":20
+ "Barcode":1234,
+
  },
  {
- "Items":"Power Bank",
- "Barcode":1243,
+ "Items":"Power Bank"
  "Price":2000
+  "Barcode":1243,
  },
  {
  "Items":"Sticker",
- "Barcode":4567,
  "Price":40
+  "Barcode":4567,
  }
  ]
  }
