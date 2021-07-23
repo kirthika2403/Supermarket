@@ -3,7 +3,8 @@
 [
 {"Items":"Salt",
  "Price":20,
- "Barcode":"1234"
+ "Barcode":"1234",
+ "Weight":500
 
  },
  {
@@ -15,7 +16,8 @@
  {
  "Items":"Sticker",
  "Price":40,
-  "Barcode":"4567"
+  "Barcode":"4567",
+  "Weight":50
  }
  ]
  }
