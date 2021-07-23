@@ -9,7 +9,8 @@
  {
  "Items":"Power Bank",
  "Price":2000,
-  "Barcode":"0604537235"
+  "Barcode":"0604537235",
+  "Weight":160
  },
  {
  "Items":"Sticker",
