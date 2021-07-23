@@ -4,20 +4,20 @@
 {"Items":"Salt",
  "Price":20,
  "Barcode":"1234",
- "Weight":500
+ 
 
  },
  {
  "Items":"Power Bank",
  "Price":2000,
   "Barcode":"0604537235",
-  "Weight":160
+  
  },
  {
- "Items":"Sticker",
+ "Items":"FeviStick",
  "Price":40,
-  "Barcode":"4567",
-  "Weight":50
+  "Barcode":"0186063366",
+ 
  }
  ]
  }
