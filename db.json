@@ -3,21 +3,20 @@
 [
 {"Items":"Salt",
  "Price":20,
- "Barcode":"1234",
+ "Barcode":"1234"
  
 
  },
  {
  "Items":"Power Bank",
  "Price":2000,
-  "Barcode":"0604537235",
+  "Barcode":"0604537235"
   
  },
  {
  "Items":"FeviStick",
  "Price":40,
-  "Barcode":"0186063366",
- 
+  "Barcode":"0186063366"
  }
  ]
  }
