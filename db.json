@@ -13,18 +13,6 @@
   "Barcode":"0604537235",
   "Weight":160
   
- },
- {
- "Items":"Stapler pin",
- "Price":40,
-  "Barcode":"0105752442",
-  "Weight":20
- },
- {
-   "Items":"Book",
- "Price":250,
-  "Barcode":"8935009582",
-  "Weight":100
  }
  ]
  }
