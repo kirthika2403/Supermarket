@@ -2,6 +2,12 @@
 "Data":
 [
  {
+  "Items":"MangalDeep Sambrani",
+ "Price":15,
+  "Barcode":"0172571009",
+  "Weight":20
+ },
+ {
  "Items":"Power Bank",
  "Price":2000,
   "Barcode":"0604537235",
